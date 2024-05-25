@@ -5,7 +5,8 @@ export default function RootLayout({ children }) {
       <title>디자이너 디케이 투두리스트 테스트입니다. dk's todo list</title>
       <meta name="description" 
       content="디자이너 디케이 투두리스트 테스트입니다. dk's todo list"></meta>
-
+      <meta name="google-site-verification" content="G3XypDcxrQFufTp2zF89q81zfizGYz8YSopnBPZYJoI" />
+      <meta name="naver-site-verification" content="e3a247e584e22522a6693436645ab33639a09cbf" />
       </head>
       <body>
         <h1>디자이너 디케이 투두리스트 테스트입니다.</h1>
