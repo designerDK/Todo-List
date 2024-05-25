@@ -9,7 +9,6 @@ export default function Home() {
   const addItem = ()=>{
     setTodoList([...todoList, inputValue])
   }
-
   return (
     <main>
       <input value={inputValue} type="text" onChange={(event)=>setInputValue(event.target.value)} />
