@@ -1,2 +1,3 @@
 User-agent: *
 Allow:/
+Sitemap: https://nexttodolist.netlify.app/sitemap.xml
